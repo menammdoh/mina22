@@ -35,7 +35,7 @@ nav ul li {
 @media screen and (max-width:430px) {
     .home{
         background-color:#171717;
-        width: 430px;
+        width: 100%;
     }
     
 }
